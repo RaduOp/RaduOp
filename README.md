@@ -9,19 +9,19 @@
 <!-- TECHS -->
 <h2 align="center">Skills</h2>
 
-<div align="center">
-                <br>
-                    <div align="center" >  
-                      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="html5" width="75" height="75"/> 
-			                <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
-                      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
-                    </div>
+<br>
+<div align="center" >  
+	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="" width="75" height="75"/> 
+	<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="" width="75" height="75"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="" width="75" height="75"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="css3" width="75" height="75"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="css3" width="75" height="75"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="css3" width="75" height="75"/>
+</br>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="" width="75" height="100"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="" width="75" height="100"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="" width="75" height="100"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="" width="75" height="100"/>
+	
 </div>
+
